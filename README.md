@@ -38,8 +38,8 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 O segundo desfio consistiu em recriar um layout para web baseado no que foi apresentado nas aulas de html e css, como elementos, espaçamentos, alinhamentos, textos e imagens.
 
-[Vizualize o projeto online](https://alison-andrem.github.io/Desafio-01/)🧑‍🚀 <br>
-[Proposta do desafio](https://efficient-sloth-d85.notion.site/Iniciante-Corrigindo-bugs-01-b448368a774c4badae1964ab414f5272) 🛠️
+[Vizualize o projeto online](https://alison-andrem.github.io/Desafio-02/)🧑‍🚀 <br>
+[Proposta do desafio](https://efficient-sloth-d85.notion.site/Desafio-intermedi-rio-Recriando-layout-19dfbff7b19c47c59a286afa37d42543) 🛠️
 
 <br>
 
